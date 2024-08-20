@@ -67,10 +67,6 @@ Player O, choose your move (1-9): 5
 
 Feel free to fork this repository and submit pull requests if you would like to add features or fix bugs. Contributions are welcome!
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 This README provides a comprehensive overview of the Tic-Tac-Toe game, including how to play, how the code is structured, and how to run the game.
